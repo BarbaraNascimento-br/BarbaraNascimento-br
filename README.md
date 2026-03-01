@@ -30,9 +30,10 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraNascimento-br)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraNascimento-br&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbaraNascimento-br&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraNascimento-br&layout=compact&theme=radical)
 
 ---
 
