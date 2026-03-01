@@ -4,6 +4,9 @@
 🚀 Em transição de carreira para a área de Tecnologia  
 🌍 Sonho em morar no exterior trabalhando com desenvolvimento e IA
 
+![eu](https://media.giphy.com/media/https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYml6ZnZodDdmcHVoM2s3aXh1dWZsdXVtdDBjMGxvYmU0ZjllODlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/In0Lpu4FVivjISX9HT/giphy.gif
+/giphy.gif)
+
 ---
 
 ## 💻 Sobre mim
