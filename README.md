@@ -31,9 +31,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BarbaraNascimento-br&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarbaraNascimento-br&show_icons=true&theme=radial&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraNascimento-br&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraNascimento-br&layout=compact&theme=radial&locale=pt-br)
+
+![Sequência de commits](https://streak-stats.demolab.com/?user=BarbaraNascimento-br&theme=radial&locale=pt_BR)
 
 ---
 
