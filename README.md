@@ -9,6 +9,8 @@
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXprNzdjaHdndmg4c3dma2I3NTZ6dHAzYXdndTFjZnkxcTR3MXhpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SHaEVN9cmuFYSMHnea/giphy.gif" width="100"/>
 
 
+
+
 ## 💻 Sobre mim
 - 🌱 Atualmente estudando Java, Spring Boot, HTML, CSS, Linguagem C e Lógica de Programação
 - 🔭 Desenvolvendo projetos práticos para portfólio
