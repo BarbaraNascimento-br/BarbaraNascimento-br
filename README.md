@@ -39,16 +39,6 @@
 ![Sequência de commits](https://streak-stats.demolab.com/?user=BarbaraNascimento-br&theme=radial&locale=pt_BR)
 
 
-<div align="center">
-  <h2>Estatísticas do GitHub:</h2>
-  <a href="https://github.com/ntlcs" style="flex: 1;">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=BarbaraNascimento-br &show_icons=true&theme=transparent&cache_seconds=3600" alt="Estatísticas do GitHub">
-  </a>
-  <a href="https://github.com/BarbaraNascimento-br" style="flex: 1;">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraNascimento-br &layout=compact&theme=transparent&cache_seconds=3600" alt="Linguagens Mais Usadas">
-  </a>
-</div>
-
 ---
 
 ## 🎯 Objetivos
