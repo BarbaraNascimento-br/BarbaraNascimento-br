@@ -1,4 +1,4 @@
-8# Olá, eu sou a Bárbara Isabella 👋
+# Olá, eu sou a Bárbara Isabella 👋
 
 🎓 Estudante de programação focada em Java Backend  
 🚀 Em transição de carreira para a área de Tecnologia  
