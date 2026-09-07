@@ -1,13 +1,8 @@
-# Olá, eu sou a Bárbara Isabella 👋
+# Olá, me chamo Bárbara 👋
 
 🎓 Estudante de programação focada em Java Backend  
 🚀 Em transição de carreira para a área de Tecnologia  
 🌍 Sonho em morar no exterior trabalhando com desenvolvimento e IA
-
-
-
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXprNzdjaHdndmg4c3dma2I3NTZ6dHAzYXdndTFjZnkxcTR3MXhpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SHaEVN9cmuFYSMHnea/giphy.gif" width="100"/>
-
 
 
 
